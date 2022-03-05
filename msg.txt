@@ -1,0 +1,4 @@
+Hello,
+Kenil is send message to you using python.
+for test of send message to a unknown number.
+please ignore it.
